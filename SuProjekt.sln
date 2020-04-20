@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuProjekt", "SuProjekt\SuProjekt.csproj", "{EEFD3867-590F-46EB-82D8-E11A76EFB38E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{C962CF06-5450-4DAF-8916-F4455B56E1C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{AC86C569-4669-4CDA-BD4E-3FA9258CABA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEFD3867-590F-46EB-82D8-E11A76EFB38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEFD3867-590F-46EB-82D8-E11A76EFB38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEFD3867-590F-46EB-82D8-E11A76EFB38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEFD3867-590F-46EB-82D8-E11A76EFB38E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C962CF06-5450-4DAF-8916-F4455B56E1C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C962CF06-5450-4DAF-8916-F4455B56E1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C962CF06-5450-4DAF-8916-F4455B56E1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C962CF06-5450-4DAF-8916-F4455B56E1C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC86C569-4669-4CDA-BD4E-3FA9258CABA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC86C569-4669-4CDA-BD4E-3FA9258CABA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC86C569-4669-4CDA-BD4E-3FA9258CABA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC86C569-4669-4CDA-BD4E-3FA9258CABA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DE732B8-E40D-4092-A305-1D6D16514089}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.utb.hb.se:8080/tfs/suht18
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BusinessLayer\\BusinessLayer.csproj
+		SccProjectName1 = BusinessLayer
+		SccLocalPath1 = BusinessLayer
+		SccProjectUniqueName2 = DataLayer\\DataLayer.csproj
+		SccProjectName2 = DataLayer
+		SccLocalPath2 = DataLayer
+		SccProjectUniqueName3 = SuProjekt\\SuProjekt.csproj
+		SccProjectName3 = SuProjekt
+		SccLocalPath3 = SuProjekt
+	EndGlobalSection
+EndGlobal
